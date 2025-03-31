@@ -3,18 +3,17 @@
 <p align="center">
   <samp>
     › <a href="mailto:d@vidko.ch">d@vidko.ch</a>
-    › <a href="https://hyenabyte.dev">my website</a>
+    › <a href="https://hyenabyte.dev">website</a>
     › <a href="https://hachyderm.io/@hyena">mastodon</a>
     › <a href="https://bsky.app/profile/hyenabyte.dev">bluesky</a>
     › <a href="https://codepen.io/hyenabyte">codepen</a>
   </samp>
 </p>
 
----
-
 My name is David
 
-I am looking for work, so if you need an experienced web developer, don't hesitate to reach out! 
+> [!IMPORTANT]
+> I am looking for work, so if you need an experienced web developer in Copenhagen, don't hesitate to reach out! 
 
 I do mainly full stack web development, with a focus on everything TypeScript, but I love exploring new technologies.
 I'm currently learning Rust and Nix, and dabbling in Gleam.
