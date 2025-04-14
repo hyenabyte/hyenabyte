@@ -12,9 +12,6 @@
 
 My name is David
 
-> [!IMPORTANT]
-> I am looking for work, so if you need an experienced web developer in Copenhagen, don't hesitate to reach out! 
-
 I do mainly full stack web development, with a focus on everything TypeScript, but I love exploring new technologies.
 I'm currently learning Rust and Nix, and dabbling in Gleam.
 
