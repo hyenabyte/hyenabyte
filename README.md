@@ -10,6 +10,9 @@
   </samp>
 </p>
 
+> [!IMPORTANT]
+> I am in the process of migrating all my repos to Codeberg, go follow me there instead -> https://codeberg.org/hyenabyte
+
 My name is David
 
 I do mainly full stack web development, with a focus on everything TypeScript, but I love exploring new technologies.
